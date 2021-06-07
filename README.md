@@ -2,7 +2,7 @@
 
 Another developer and frustrated hacker :D
 
-- 🔭 I’m currently working on ApmPKG, a package manager!
+- 🔭 I’m currently working on ApmPKG, a package manager and resolving CTF!
 - 👯 I’m looking to collaborate on projects
 - 📫 How to reach me: 
   - [Telegram ✈️ Andy](https://t.me/Kedap_Develop)
