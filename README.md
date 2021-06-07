@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+Another developer and frustrated hacker :D
 
 - 🔭 I’m currently working on ApmPKG, a package manager!
 - 👯 I’m looking to collaborate on projects, only want collaborate
