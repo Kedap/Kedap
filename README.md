@@ -1,6 +1,7 @@
 ### Hi there 👋
+<img align="left" src="https://raw.githubusercontent.com/Kedap/Kedap/master/img/me.jpg" alt="me" width="250" height="275">
 
-Another developer and frustrated hacker :D
+Yes. Another developer and frustrated hacker 🇲🇽:D
 
 - 🔭 I’m currently working on ApmPKG, a package manager and resolving CTF!
 - 👯 I’m looking to collaborate on projects
