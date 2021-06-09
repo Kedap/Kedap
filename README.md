@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img align="left" src="https://raw.githubusercontent.com/Kedap/Kedap/master/img/me.jpg" alt="me" height="200">
+<img align="left" src="https://raw.githubusercontent.com/Kedap/Kedap/master/img/me.jpg" alt="me" height="250">
 
 Yes. Another developer and frustrated hacker 🇲🇽 :D
 
