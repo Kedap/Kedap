@@ -9,4 +9,4 @@ Yes. Another developer and frustrated hacker 🇲🇽 :D
   - [Telegram Andy ✈️](https://t.me/Kedap_Develop)
   - [Mail kqybspvj@hi2.in ✉️](mail:dxhqezk@hi2.in)
   - [XMPP kedap@404.city 💬](xmpp:kedap@404.city)
-- 👤 Kedap lo0p3r ANDy sno0By_ דנטה
+- 👤 Kedap lo0p3r sno0By_ דנטה
