@@ -9,4 +9,10 @@ Yes. Another developer and frustrated hacker 🇲🇽 :D
   - [Telegram... Andy ✈️](https://t.me/Kedap_Develop)
   - [Mail... kedap.dev@protonmail.com ✉️](mail:dxhqezk@hi2.in)
   - [XMPP... kedap@404.city 💬](xmpp:kedap@404.city)
-- 👤 Kedap lo0p3r sno0By_ דנטה.
+- 👤 Kedap lo0p3r Sno0Bwy_ דנטה.
+
+## Github Stats
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kedap&theme=gruvbox" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=kedap&theme=gruvbox" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kedap&theme=gruvbox" />
