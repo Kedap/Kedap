@@ -7,6 +7,7 @@ Yes. Another developer and frustrated hacker 🇲🇽 :D
 - 👯 I’m looking to collaborate on projects.
 - 📫 How to reach me: 
   - [Telegram... Andy ✈️](https://t.me/Kedap_Develop)
+  - [Twtiter... @kedap_avellana 🐦](https://twitter.com/kedap_avellana)
   - [Mail... kedap.dev@protonmail.com ✉️](mail:dxhqezk@hi2.in)
   - [XMPP... kedap@404.city 💬](xmpp:kedap@404.city)
 - 👤 Kedap lo0p3r Sno0Bwy_ דנטה.
