@@ -7,7 +7,7 @@ Yes. Another developer and frustrated pseudopentester :l
 - 🔭 I’m currently resolving CTF!
 - 👯 I’m looking to collaborate on projects.
 - 📫 How to reach me:
-  - <a rel="me" href="https://mastodon.social/@kedap">Mastodon... @kedap@mastodon.social 🐘</a>
+  - [Mastodon... @kedap@mastodon.social 🐘](https://mastodon.social/@kedap)
   - [Matrix... @kedap55:matrix.org :m:](https://matrix.to/#/@kedap55:matrix.org)
   - [XMPP... kedap55@404.city 💬](xmpp:kedap55@404.city)
   - [Mail... kedap.dev@protonmail.com ✉️](mail:dxhqezk@hi2.in)
