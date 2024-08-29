@@ -17,3 +17,5 @@ Yes. Another developer and frustrated pseudopentester :l
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kedap&theme=gruvbox" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=kedap&theme=gruvbox" />
+
+<a rel="me" href="https://mastodon.social/@kedap"/>
