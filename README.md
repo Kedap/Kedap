@@ -9,7 +9,7 @@ Yes. Another developer and frustrated pseudopentester :l
 - 📫 How to reach me:
   - [Mastodon... @kedap@mastodon.social 🐘](https://mastodon.social/@kedap)
   - [Matrix... @kedap55:matrix.org :m:](https://matrix.to/#/@kedap55:matrix.org)
-  - [XMPP... kedap55@404.city 💬](xmpp:kedap55@404.city)
+  - [SimpleX... kedap 💬](https://simplex.chat/contact#/?v=2-7&smp=smp%3A%2F%2FN_McQS3F9TGoh4ER0QstUf55kGnNSd-wXfNPZ7HukcM%3D%40smp19.simplex.im%2FpivTE6IAj3E5NW_xKxBT8tXPDUiBc9sk%23%2F%3Fv%3D1-3%26dh%3DMCowBQYDK2VuAyEAWCb_bma5Gi0-HrG3AitQicNWN7ZKxU9vyawb4HT6xEk%253D%26srv%3Di53bbtoqhlc365k6kxzwdp5w3cdt433s7bwh3y32rcbml2vztiyyz5id.onion)
   - [Mail... kedap.dev@protonmail.com ✉️](mail:dxhqezk@hi2.in)
 - 👤 Kedap lo0p3r Sno0Bwy\_ דנטה.
 
