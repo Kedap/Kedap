@@ -5,6 +5,7 @@ Yes. Another developer and frustrated pseudopentester :l
 <img align="left" src="https://raw.githubusercontent.com/Kedap/Kedap/master/img/me.jpg" alt="me" height="250">
 
 - 🔭 I’m currently resolving CTF!
+- 🛍️ I’m currently developing with Shopify and Liquid!
 - 👯 I’m looking to collaborate on projects.
 - 📫 How to reach me:
   - [Mastodon... @kedap@mastodon.social 🐘](https://mastodon.social/@kedap)
